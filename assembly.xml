@@ -21,9 +21,9 @@
 		<fileSet>
 			<directory>distro\arch</directory>
 			<outputDirectory>arch</outputDirectory>
-			<includes>
-				<include>*.*</include>
-			</includes>
+			<excludes>
+				<exclude>*</exclude>
+			</excludes>
 		</fileSet>
 		<fileSet>
 			<directory>distro\logs</directory>
