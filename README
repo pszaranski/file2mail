@@ -1,0 +1,15 @@
+Simple Java program, which purpose is to send an email when a new file in scanned folder is discovered.
+
+src - Java sources for this program
+distro/config/file2.mail.properties - main configuration of program
+distro/config/logging.properties - logging confguration
+distro/config/mail-template.html - template used as an email
+
+Maven2 is being used to create final zip distro, which is ready to run as is.
+
+Licence:
+
+If you want to use file2mail in your program - as part or use it standalone for your private, commercial or noncommercial - just email me and ask for permission. Im pretty sure I will not refuse you to use it any way you want. Cheers!
+
+Piotr Szaranski
+szaranski.piotr@gmail.com
